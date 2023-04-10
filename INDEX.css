@@ -1,0 +1,340 @@
+
+body{
+
+    position: relative;
+    width: 100%;
+    height: 3883px;
+    background-color: lightblue;
+  
+
+
+}
+.container{
+
+
+
+    position: absolute;
+    left: 0.5%;
+    right: 0%;
+    top: 0%;
+    bottom: 75.4%;
+    
+    
+    
+
+}
+#service{
+    
+position: absolute;
+left: 24.13%;
+right: 70.4%;
+top: 1.08%;
+bottom: 98.31%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+
+/* gray/900 */
+
+color: #18181B;
+
+}
+#product{
+
+    position: absolute;
+    left: 40.05%;
+    right: 55.72%;
+    top: 1.08%;
+    bottom: 98.31%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height, or 120% */
+    
+    
+    /* gray/900 */
+    
+    color: #18181B;
+    
+}
+#contact{
+
+    position: absolute;
+    left: 56.41%;
+    right: 38.68%;
+    top: 1.08%;
+    bottom: 98.31%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height, or 120% */
+    
+    
+    /* gray/900 */
+    
+    color: #18181B;
+    
+}
+#logo{
+position: absolute;
+left: 7.59%;
+right: 85.32%;
+top: 1.08%;
+bottom: 98.31%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height, or 100% */
+
+
+color: #000000;
+}
+p{
+    
+position: absolute;
+left: 9.7%;
+height: 396px;
+width: 657px;
+left: 106px;
+top: 332px;
+border-radius: 8px;
+
+right: 49.44%;
+top: 8.53%;
+bottom: 84.54%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 88px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+/* Blue/900 */
+
+color: #0F172A;
+
+
+
+
+}
+img{
+    
+position: absolute;
+left: 51.06%;
+right: 15.98%;
+top: 8.47%;
+bottom: 77.45%;
+
+background: url(pexels-adonis-arias-11288110.jpg);
+border-radius: 16px;
+box-shadow: #000000 -19px -21px 32px;
+}
+button{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 10px;
+font-style: italic;
+font-weight: 600;
+box-shadow: 8px 8px 6px;
+
+position: absolute;
+left: 10.01%;
+right: 77.3%;
+top: 17.16%;
+bottom: 81.3%;
+
+/* Primary/01 */
+
+background: #485AFF;
+border-radius: 8px;
+height: 59.73214340209961px;
+width: 204px;
+left: 161px;
+top: 568.267822265625px;
+border-radius: 8px;
+padding: 16px 24px 16px 24px;
+
+}
+#text{
+
+    position: absolute;
+    left: 32.38%;
+    right: 29.12%;
+    top: 27.5%;
+    bottom: 2.26%;
+    
+    /* PJ/Bold/42px */
+    
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: px;
+    /* identical to box height, or 114% */
+    
+    text-align: center;
+    
+    /* gray/900 */
+    
+    color: #18181B;
+   
+    
+}
+#feats{
+    
+position: absolute;
+left: 1.12%;
+right: -1.12%;
+top: 54.6%;
+bottom: 49.82%;
+
+/* base/white */
+
+background: #FFFFFF;
+height: 896px;
+width: 100%;
+left: 18px;
+top: 858px;
+border-radius: 0px;
+
+}
+
+
+#wrapper{
+    height: 590px;
+width: 100%;
+
+border-radius: 0px;
+
+position: absolute;
+left: 0%;
+right: 10%;
+top: 24.6%;
+bottom: 49.82%;
+align-content: center;
+
+
+/* base/white */
+
+background: #94c6e7;
+
+}
+section{
+justify-content: space-around;
+    height: 573px;
+    width: 90%;
+    left: 78.927734375px;
+    top: 269px;
+    border-radius: 100px;
+
+    margin: 0px 0px 0px -55px;
+  
+  
+position: absolute;
+left: 10%;
+right: 1%;
+top: 2.59%;
+bottom: 58%;
+display: flex;
+flex-wrap: wrap;
+
+
+
+
+}
+#h4{
+    height: 173px;
+width: 247.22999572753906px;
+left: 257.3173828125px;
+top: 1418px;
+border-radius: nullpx;
+
+position: absolute;
+left: 16%;
+right: 68.62%;
+top: 36.41%;
+bottom: 59.14%;
+color: burlywood;
+}
+
+
+
+.wrapper5{
+    height: 206px;
+    width: 331.6499938964844px;
+    left: 672px;
+    top: 1368px;
+    border-radius: nullpx;
+    color: rgb(10, 10, 10);
+   
+}
+#containerarrangement1{
+    background-color: rgb(18, 74, 88);
+    height: 204px;
+    width: 331.6499938964844px;
+    left: 72px;
+    top: 1368px;
+    border-radius: nullpx;
+    color: rgb(255, 251, 253);
+    padding-left: 30px;
+    border-radius: 6px 6px 6px 6px;
+    padding-top: 20px;
+    box-shadow: red 8px 12px 35px;
+}
+button :hover{max-width: 420px;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 10px;
+font-style: italic;
+font-weight: 600;
+box-shadow: 8px 8px 6px;
+
+position: absolute;
+left: 10.01%;
+right: 77.3%;
+top: 17.16%;
+bottom: 81.3%;
+
+/* Primary/01 */
+
+background: #485AFF;
+border-radius: 8px;
+height: 59.73214340209961px;
+width: 204px;
+left: 161px;
+top: 568.267822265625px;
+border-radius: 8px;
+padding: 16px 24px 16px 24px;
+
+}
+
+
+
+
+
+
+
+
