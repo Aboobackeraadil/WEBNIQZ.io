@@ -104,24 +104,24 @@ line-height: 24px;
 color: #000000;
 }
 p{
-    
+    align-self: center;
 position: absolute;
 left: 9.7%;
 height: 396px;
 width: 657px;
 left: 106px;
-top: 332px;
+top: 732px;
 border-radius: 8px;
 
 right: 49.44%;
-top: 8.53%;
+top: 10.53%;
 bottom: 84.54%;
 
 font-family: 'Inter';
 font-style: normal;
 font-weight: 700;
-font-size: 80px;
-line-height: 88px;
+font-size: 140px;
+line-height: 178px;
 /* or 111% */
 
 display: flex;
@@ -146,33 +146,7 @@ background: url(pexels-adonis-arias-11288110.jpg);
 border-radius: 16px;
 box-shadow: #000000 -19px -21px 32px;
 }
-button{
-    display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-padding: 16px 24px;
-gap: 10px;
-font-style: italic;
-font-weight: 600;
-box-shadow: 8px 8px 6px;
 
-position: absolute;
-left: 10.01%;
-right: 77.3%;
-top: 17.16%;
-bottom: 81.3%;
-
-/* Primary/01 */
-
-background: #485AFF;
-border-radius: 8px;
-height: 59.73214340209961px;
-width: 204px;
-left: 161px;
-top: 568.267822265625px;
-border-radius: 8px;
-padding: 16px 24px 16px 24px;
 
 }
 #text{
@@ -330,6 +304,7 @@ border-radius: 8px;
 padding: 16px 24px 16px 24px;
 
 }
+
 
 
 
