@@ -120,7 +120,7 @@ bottom: 84.54%;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 700;
-font-size: 140px;
+font-size:80px;
 line-height: 178px;
 /* or 111% */
 
@@ -142,13 +142,11 @@ right: 15.98%;
 top: 8.47%;
 bottom: 77.45%;
 
-background: url(pexels-adonis-arias-11288110.jpg);
+
 border-radius: 16px;
 box-shadow: #000000 -19px -21px 32px;
 }
 
-
-}
 #text{
 
     position: absolute;
@@ -241,7 +239,6 @@ flex-wrap: wrap;
 width: 247.22999572753906px;
 left: 257.3173828125px;
 top: 1418px;
-border-radius: nullpx;
 
 position: absolute;
 left: 16%;
@@ -258,7 +255,7 @@ color: burlywood;
     width: 331.6499938964844px;
     left: 672px;
     top: 1368px;
-    border-radius: nullpx;
+    
     color: rgb(10, 10, 10);
    
 }
@@ -305,11 +302,70 @@ padding: 16px 24px 16px 24px;
 
 }
 
+@media only screen and (max-width: 768px) {
+    /* Styles for mobile phones and tablets */
+    section {
+        display: grid;
+        justify-content: space-around;
+        height: 573px;
+        width: 90%;
+        left: 78.927734375px;
+        top: 269px;
+        border-radius: 100px;
+    
+        margin: 0px 0px 0px -55px;
+      
+      
+    position: absolute;
+    left: 10%;
+    right: 1%;
+    top: 2.59%;
+    bottom: 58%;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+    
+    
+    
+    }
+    
+}
+@media only screen and (max-width: 768px){
+    #wrapper {
+        height: 92em;
+        display: flex;
+        flex-wrap: wrap;
 
 
+        height: 590px;
+width: 100%;
+
+border-radius: 0px;
+
+position: absolute;
+left: 0%;
+right: 10%;
+top: 24.6%;
+bottom: 49.82%;
+align-content: center;
 
 
+/* base/white */
+
+background: #94c6e7;
+
+    }
 
 
-
-
+}
+@media only screen and (max-width: 768px){
+    .container {
+        height: 1000;
+    } 
+}
+@media only screen and (max-width: 768px){
+    p{
+        font-size: 1200;
+    }
+}
